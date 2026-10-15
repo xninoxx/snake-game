@@ -1,0 +1,10 @@
+Mijn naam is Nino Wolfsen en ik wil een Snake game maken met JavaScript. Het ding is, ik kan helemaal geen JavaScript.
+
+In dit project ga ik een nieuwe manier van leren aan:
+Leer hoe een Snake game in elkaar zit en maak een stappenplan van wat je moet hebben om een Snake game te maken.
+Met een stappenplan kan ik makkelijk (Spoiler: het word als nog lastig) opzoeken op Google hoe ik een stap voltooi.
+
+Voorbeeld: 1 van mijn stappen zijn "zorg dat je een blokje kunt laten bewegen". wat ik dan op Google ga opzoeken is: "How do i make a rectangle move in JavaScript?".
+
+Stappenplan:
+
