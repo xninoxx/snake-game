@@ -6,5 +6,45 @@ Met een stappenplan kan ik makkelijk (Spoiler: het word als nog lastig) opzoeken
 
 Voorbeeld: 1 van mijn stappen zijn "zorg dat je een blokje kunt laten bewegen". wat ik dan op Google ga opzoeken is: "How do i make a rectangle move in JavaScript?".
 
+Dit project word gemaakt met online documentatie en zonder enigste ondersteuning van AI.
+
 Stappenplan:
 
+Stap 1: maak een website
+
+Stap 2: Een HTML canvas maken
+
+Stap 3: Een achtergrondkleur geven aan mijn canvas zodat het zichtbaar is
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lange lijst met bronnen die ik heb gebruikt:
+
+https://www.w3schools.com/graphics/game_canvas.asp
+https://www.w3schools.com/graphics/canvas_intro.asp

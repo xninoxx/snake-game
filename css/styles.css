@@ -1,0 +1,8 @@
+body {
+    background-color: pink;
+}
+
+canvas {
+    border: 15px solid white;
+    background-color: #000;
+}
