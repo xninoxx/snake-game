@@ -18,7 +18,7 @@ Stap 3: Een achtergrondkleur geven aan mijn canvas zodat het zichtbaar is
 
 Stap 4: Eerste blokje van de Snake (de kop) op het scherm tekenen
 
-
+Stap 5: Frames toevoegen
 
 
 
